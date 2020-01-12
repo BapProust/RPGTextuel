@@ -1,0 +1,23 @@
+#canvasTexte {
+    margin: 2rem;
+    width: 100%;
+    height: 25rem;
+    display: block;
+    border: 5px double black;
+    text-align: center;
+}
+
+#canvasChoix {
+    width: 100%;
+    display: block;
+}
+
+#Choix1, #Choix2 {
+    margin: 1rem 2rem 1rem 2rem;
+    width: 100%;
+}
+
+p {
+    margin: 1rem;
+    font-weight: bold;
+}
